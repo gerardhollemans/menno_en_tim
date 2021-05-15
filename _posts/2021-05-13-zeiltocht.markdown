@@ -5,7 +5,6 @@ date:   2021-05-13
 
 videoId: 1ZBH8qeiCGkRSnaOVjeZXB6b5FPnW4HW4
 ---
-BUILT ON GITHUB
 Hieronder een paar foto's van onze zeiltocht.
 
 [![]({{ site.baseurl }}{{ site.images }}/wp-1620761800184.jpg)]({{ site.baseurl }}{{ site.images }}/wp-1620761800184.jpg)
