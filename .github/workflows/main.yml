@@ -7,9 +7,9 @@ on:
 
 jobs:
   deploy:
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-latest
     steps:
       - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
+        uses: rayluo/github-pages-overwriter@v1.1
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          source-directory: ./_site
