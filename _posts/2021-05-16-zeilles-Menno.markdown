@@ -5,8 +5,8 @@ date:   2021-05-16
 
 videoId: 1pyPlu_F8_wz7my13QEgsH2_Y_3mn8aTJ
 ---
-Hieronder een foto en een filmpje van Menno's eerste zeilles.
+Menno's eerste zeilles:
 
-[![]({{ site.baseurl }}{{ site.images }}/20210516_194544.jpg)]({{ site.baseurl }}{{ site.images }}/20210516_194544.jpg)
+{% include image-gallery.html folder="/assets/images/2021-05-16-zeilles-Menno" %}
 
 {% include googleDrivePlayer.html id=page.videoId %}
